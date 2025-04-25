@@ -1,5 +1,6 @@
 # AD-3_Tarea_UML
 Repositorio destinado a la entrega de la AD-3 de la asignatura Entornos de desarrollo
+Autor: David Fernández Martínez
 
 
 ![Diagrama sin título-Página-1 drawio](https://github.com/user-attachments/assets/658699dd-bd4c-45b7-8a25-8fe7871657e0)
